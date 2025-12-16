@@ -11,5 +11,6 @@ server/.venv
 .DS_Store
 .env
 start-dev.ps1
+.github/copilot-instructions.md
 
 temp.py
